@@ -9,7 +9,7 @@ Hi 👋, I'm Hassane Bendaoud a full-time full-stack freelance developer 👨‍
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/hsn0x)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hsn_0x)
 
-# Marketplace Nextjs Frontend
+# Marketplace Next TailwindCSS Express Prisma Frontend
 
 Multiple Stores Listing
 
