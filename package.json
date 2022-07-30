@@ -1,5 +1,5 @@
 {
-    "name": "marketplace-next-express-sequelize-frontend",
+    "name": "marketplace-next-tailwindcss-express-prisma-frontend",
     "version": "0.1.2",
     "private": true,
     "scripts": {
@@ -11,7 +11,7 @@
     "author": "Hassane Bendaoud <40140987+hsn0x@users.noreply.github.com>",
     "license": "MIT",
     "repository": {
-        "url": "https://github.com/hsn0x/marketplace-next-express-sequelize-frontend.git",
+        "url": "https://github.com/hsn0x/marketplace-next-tailwindcss-express-prisma-frontend.git",
         "type": "git",
         "directory": "."
     },
